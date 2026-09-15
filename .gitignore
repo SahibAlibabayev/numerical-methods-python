@@ -1,0 +1,8 @@
+# Ignore everything by default
+*
+!.gitignore
+!README.md
+!Codes/
+
+Codes/*
+!Codes/*.py
